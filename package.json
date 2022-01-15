@@ -1,0 +1,15 @@
+{
+  "name": "online-judge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "judge.js",
+  "directories": {
+    "example": "example",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node judge.js example"
+  },
+  "author": "Myeonghoe Song",
+  "license": "ISC"
+}
